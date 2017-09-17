@@ -1,3 +1,3 @@
 {
-    "plugins": ["mathjax","gitbook-pdfgen"]
+    "plugins": ["mathjax-commonhtml"]
 }
